@@ -1,3 +1,10 @@
+# Updating source, building, and commiting
+
+1. Make changes in `src/` files only.
+2. Run `npm run build`
+3. Commit the changes
+
+
 # PubNub JavaScript SDK (V4)
 
 [![Build Status](https://travis-ci.com/pubnub/javascript.svg?branch=master)](https://travis-ci.com/pubnub/javascript)
